@@ -1,4 +1,5 @@
 # utils_scripts
+Collecting some useful scripts.
 
 ## maven-dep-version-check.py
 check if maven-dep-version is trusted compared to `jars.csv`.
